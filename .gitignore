@@ -1,0 +1,10 @@
+composer.lock
+composer.phar
+vendor/
+config.php
+.idea/
+.DS_Store
+.tmb/
+quickbooks/
+composer/
+.quarantine/
